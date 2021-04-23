@@ -1,0 +1,28 @@
+{
+  "name": "cntnd_simple_booking",
+  "version": "1.0.1",
+  "description": "Reservationssystem (Simpel)",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-file": "^0.4.0",
+    "gulp-minifier": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-zip": "^5.0.1",
+    "kind-of": ">=6.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cntnd/booking.git"
+  },
+  "author": "Thomas D Ascoli, thomas@dasco.li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cntnd/booking/issues"
+  },
+  "homepage": "https://github.com/cntnd/booking#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp-inject": "^5.0.5"
+  }
+}
